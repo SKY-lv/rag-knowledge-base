@@ -1,2 +1,24 @@
-# rag-knowledge-base
-RAG知识库构建助手 - 向量检索/Embedding/混合检索
+# Rag Knowledge Base
+
+> OpenClaw Agent Skill
+
+RAG Knowledge Base Skill
+
+## Installation
+
+```bash
+# Install via ClawHub
+clawhub install SKY-lv/rag-knowledge-base
+```
+
+## Usage
+
+Load this skill in your OpenClaw agent to enable rag knowledge base capabilities.
+
+## Features
+
+See [SKILL.md](./SKILL.md) for full documentation and usage examples.
+
+## License
+
+MIT
